@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currently born kadiri lived mpl job bnglr </h1>   
+         <h1> born kadiri lived mpl job bnglr </h1>   
 	 
 
     </section>    
