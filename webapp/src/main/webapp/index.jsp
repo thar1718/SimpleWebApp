@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Big Sale shopping site</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">thusharika p offical website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Currently No offers</h1>   
+         <h1>Currently born kadiri lived mpl job bnglr </h1>   
 	 
 
     </section>    
